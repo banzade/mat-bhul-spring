@@ -1,0 +1,13 @@
+# IntelliJ IDEA-specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven-specific files
+target/
+
+# Packages
+*.jar
+*.war
+*.ear
